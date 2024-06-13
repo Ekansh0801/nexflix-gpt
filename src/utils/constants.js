@@ -14,7 +14,7 @@ export const AVATAR_ICON = "https://wallpapers.com/images/hd/netflix-profile-pic
 export const API_OPTIONS = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'e763496c65msh8201300d4efae33p196b34jsn0923af18d762',
-		'X-RapidAPI-Host': 'ott-details.p.rapidapi.com'
+		'x-rapidapi-key': '2fd6775413mshe40e21017aef30bp14a389jsn14db59b2b3db',
+		'x-rapidapi-host': 'netflix-data.p.rapidapi.com'
 	}
 };
