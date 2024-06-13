@@ -15,6 +15,8 @@ export const API_OPTIONS = {
 	method: 'GET',
 	headers: {
 		'x-rapidapi-key': '2fd6775413mshe40e21017aef30bp14a389jsn14db59b2b3db',
-		'x-rapidapi-host': 'netflix-data.p.rapidapi.com'
+		'x-rapidapi-host': 'movies-api14.p.rapidapi.com'
 	}
 };
+
+
