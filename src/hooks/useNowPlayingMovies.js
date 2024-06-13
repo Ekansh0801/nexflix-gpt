@@ -11,7 +11,7 @@ const useNowPlayingMovies = async() => {
 
   const data = await fetch("https://movies-api14.p.rapidapi.com/movies",API_OPTIONS);
   const json = await data.json();
-  // console.log(json.movies);
+  console.log(json.movies);
   dispatch(addNowPlayingMovies(json.movies));
   }
 
