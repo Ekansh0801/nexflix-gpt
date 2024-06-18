@@ -33,3 +33,5 @@ export const SUPPORTED_LANGUAGES = [
 	{identifier:"japanese",name:"Japanese"},
 	{identifier:"urdu",name:"Urdu"},
 ]
+
+// export const OPENAI_GPT_KEY = "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";
